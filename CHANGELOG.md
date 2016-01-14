@@ -1,3 +1,7 @@
+# 0.8.3
+
+* Use s3 static installer that doesn't go away for windows installs
+
 # 0.8.2
 
 * Added checksum validation to nxlog remote_file packages
