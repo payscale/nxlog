@@ -43,7 +43,7 @@ if node['nxlog']['checksums'][package_name]
   end
 else
   remote_file 'nxlog' do
-    path "#{Chef::Config[:file_cache_path]}/#{package_name}"
+    path "#{Chef::Config[:file_cache_path]}/nxlog-ce-2.9.1504.msi"
     source "https://s3.amazonaws.com/ps-deploy-artifacts/nx-log-installer/nxlog-ce-2.9.1504.msi"
     mode 0644
   end
