@@ -17,6 +17,6 @@
 # limitations under the License.
 #
 
-package_name = "nxlog-ce-#{node['nxlog']['version']}.msi"
+package_name = "NO CHECKSUM HERE" #"nxlog-ce-#{node['nxlog']['version']}.msi"
 
 node.default['nxlog']['installer_package'] = package_name
