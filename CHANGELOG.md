@@ -1,3 +1,7 @@
+# 0.8.4
+
+* use the correct package name instead of the checksum goop
+
 # 0.8.3
 
 * Use s3 static installer that doesn't go away for windows installs
