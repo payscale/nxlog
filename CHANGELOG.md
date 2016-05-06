@@ -1,3 +1,7 @@
+# 0.8.5
+
+* Add exec module to core install
+
 # 0.8.4
 
 * use the correct package name instead of the checksum goop
